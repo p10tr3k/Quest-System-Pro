@@ -1,8 +1,0 @@
-[submodule "Docs"]
-	path = Docs
-	url = git@github.com:devdogio/Quest-System-Pro-Docs.git
-
-[submodule "General"]
-	path = Assets/Devdog/General
-	url = https://github.com/devdogio/general
-	branch = master
